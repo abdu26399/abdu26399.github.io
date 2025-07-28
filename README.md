@@ -6,7 +6,7 @@ Hello and welcome to my portfolio!
 
 I’m Abdullah, a dedicated data analyst/data scientist who loves diving into data to uncover the hidden stories it holds. Over the past two years, I’ve polished my skills in transforming raw data into meaningful insights that drive smarter decisions and tangible business results.
 
-I enjoy tackling challenges head-on—whether it’s designing interactive Power BI dashboards, streamlining ETL pipelines, or building machine learning models to solve complex problems. For me, it’s not just about working with data, but it’s about making it actionable and impactful.
+I enjoy tackling challenges head-on. They could range from designing interactive Power BI dashboards, streamlining ETL pipelines, or building machine learning models to solving complex  statistical problems. For me, it’s not just about working with data, but it’s about making it actionable and impactful.
 
 Here’s a quick peek into my world:
 
