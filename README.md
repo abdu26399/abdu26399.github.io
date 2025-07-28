@@ -1,14 +1,24 @@
 # Abdullah Ahmed  
-Welcome to my data portfolio! I’m a Data Analyst with over 2 years of experience turning raw data into actionable insights using Power BI, SQL, and Python.
 
----
+Hello and welcome to my portfolio!
 
 ## 🧠 About Me  
-With a background in Artificial Intelligence and a passion for data storytelling, I’ve worked on impactful analytics projects for clients like **Walmart**, **Ericsson**, **Nestlé**, and **FGF Brands**. My focus is on delivering business value through dashboards, forecasts, and interactive reports.
+
+I’m Abdullah, a dedicated data analyst/data scientist who loves diving into data to uncover the hidden stories it holds. Over the past two years, I’ve polished my skills in transforming raw data into meaningful insights that drive smarter decisions and tangible business results.
+
+I enjoy tackling challenges head-on—whether it’s designing interactive Power BI dashboards, streamlining ETL pipelines, or building machine learning models to solve complex problems. For me, it’s not just about working with data—it’s about making it actionable and impactful.
+
+Here’s a quick peek into my world:
+
+- To me, data is more than numbers—it’s a powerful tool to inspire decisions, improve efficiency, and unlock new opportunities.  
+- I’m genuinely fascinated by how AI, analytics, and cloud technology are shaping the future, and I’m always exploring ways to push boundaries and learn something new.  
+- When I’m not working, you’ll often find me experimenting with new recipes, trying out different cuisines, exploring tech trends, or mentoring others. I also enjoy outdoor adventures and discovering hidden gems in the city.
+
+I have worked on impactful analytics projects for clients like **Walmart**, **Ericsson**, **Nestlé**, and **FGF Brands**. My focus is on delivering business value through dashboards, forecasts, and interactive reports.
 
 ---
 
-## 📊 Skills  
+## 📊 My Tech Stack  
 - **Business Intelligence Tools:** Tableau, Microsoft Power BI (Data Modelling, Reports, Dashboards), SSRS  
 - **ETL & Workflow Orchestration Tools:** Apache Kafka, Microsoft SQL Server Integration Services (SSIS), Apache Airflow  
 - **Programming Languages / Libraries:** Python (TensorFlow, NumPy, Pandas, Matplotlib, OpenCV, PySpark), R, C, HTML, CSS  
@@ -18,9 +28,9 @@ With a background in Artificial Intelligence and a passion for data storytelling
 
 ---
 
-## 📁 Dashboards  
+## 📁 My Projects  
 
-### Canada PR Analytics Dashboard  
+### 1. Canada PR Analytics Dashboard  
 This dashboard provides a data-driven overview of Canada's Permanent Residency (PR) trends over the last decade. Built using Power BI, it visualizes quarterly trends by country, visa category, and region, helping policymakers, researchers, and applicants understand immigration dynamics.
 
 [📥 PR Analytics - Canada ( 2015 - 2025 )`.pbix`]([https://onedrive.live.com/your-link-here](https://1drv.ms/u/c/f5a705bda4166878/ERLuZoInpW1Dili9l6vAQ7AB1Jhc0slsJAa7q5VJTElUWg?e=1I5M2I))
