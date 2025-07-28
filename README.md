@@ -1,10 +1,11 @@
 # Abdullah Ahmed  
 
-Hello and welcome to my portfolio!
+Numbers don’t lie, but they don’t speak for themselves either.
+This is where I turn silent data into insights that speak volumes.
 
 ## 🧠 About Me  
 
-I’m Abdullah, a dedicated data analyst/data scientist who loves diving into data to uncover the hidden stories it holds. Over the past two years, I’ve polished my skills in transforming raw data into meaningful insights that drive smarter decisions and tangible business results.
+I’m Abdullah, a dedicated data analyst and data scientist passionate about uncovering the hidden stories within data. With a Master’s degree in Applied Computer Science from the University of Windsor, I have spent the past two years honing my skills in transforming raw data into meaningful insights that drive smarter decisions and deliver tangible business results.
 
 I enjoy tackling challenges head-on. They could range from designing interactive Power BI dashboards, streamlining ETL pipelines, or building machine learning models to solving complex  statistical problems. For me, it’s not just about working with data, but it’s about making it actionable and impactful.
 
