@@ -3,7 +3,7 @@
 Numbers don’t lie, but they don’t speak for themselves either.
 This is where I turn silent data into insights that speak volumes.
 
-## 🧠 About Me  
+# 🧠 About Me  
 
 I’m Abdullah, a dedicated data analyst and data scientist passionate about uncovering the hidden stories within data. With a Master’s degree in Applied Computer Science from the University of Windsor, I have spent the past two years honing my skills in transforming raw data into meaningful insights that drive smarter decisions and deliver tangible business results.
 
@@ -19,7 +19,7 @@ I have worked on impactful analytics projects for clients like **Walmart**, **Er
 
 ---
 
-## 📊 My Tech Stack  
+# 📊 My Tech Stack  
 - **Business Intelligence Tools:** Tableau, Microsoft Power BI (Data Modelling, Reports, Dashboards), SSRS  
 - **ETL & Workflow Orchestration Tools:** Apache Kafka, Microsoft SQL Server Integration Services (SSIS), Apache Airflow  
 - **Programming Languages / Libraries:** Python (TensorFlow, NumPy, Pandas, Matplotlib, OpenCV, PySpark), R, C, HTML, CSS  
@@ -29,22 +29,22 @@ I have worked on impactful analytics projects for clients like **Walmart**, **Er
 
 ---
 
-## 📁 My Projects  
+# 📁 My Projects  
 
-### 1. Canada PR Analytics Dashboard  
+## 1. Canada PR Analytics Dashboard  
 This dashboard provides a data-driven overview of Canada's Permanent Residency (PR) trends over the last decade. Built using Power BI, it visualizes quarterly trends by country, visa category, and region, helping policymakers, researchers, and applicants understand immigration dynamics.
 
 [📥 PR Analytics - Canada ( 2015 - 2025 )`.pbix`]([https://onedrive.live.com/your-link-here](https://1drv.ms/u/c/f5a705bda4166878/ERLuZoInpW1Dili9l6vAQ7AB1Jhc0slsJAa7q5VJTElUWg?e=1I5M2I))
 
-### Pages 
+## Pages 
 
-## Executive Summary
+### Executive Summary
 ![Executive Summary](images/Executive_Summary.jpg)
 
-## Approvals by Country
+### Approvals by Country
 ![Approvals by Country](images/approvals_country.jpg)
 
-## Approvals by Province & Age Group
+### Approvals by Province & Age Group
 ![Approvals by Province & Age Group](images/approvals_province_agegroup.jpg)
 
 ---
