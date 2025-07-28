@@ -25,6 +25,17 @@ This dashboard provides a data-driven overview of Canada's Permanent Residency (
 
 [📥 PR Analytics - Canada ( 2015 - 2025 )`.pbix`]([https://onedrive.live.com/your-link-here](https://1drv.ms/u/c/f5a705bda4166878/ERLuZoInpW1Dili9l6vAQ7AB1Jhc0slsJAa7q5VJTElUWg?e=1I5M2I))
 
+### Pages 
+
+## Executive Summary
+![Executive Summary](images/executive_summary.png)
+
+## Approvals by Country
+![Approvals by Country](images/approvals_by_country.png)
+
+## Approvals by Province & Age Group
+![Approvals by Province & Age Group](images/approvals_by_province_age_group.png)
+
 ---
 
 ## 📬 Contact Me  
