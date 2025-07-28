@@ -9,12 +9,12 @@ With a background in Artificial Intelligence and a passion for data storytelling
 ---
 
 ## 📊 Skills  
-- **Business Intelligence**: Microsoft Power BI, DAX, Power Query  
-- **Data Engineering**: SQL, Azure Data Factory, Databricks, SSIS  
-- **Programming**: Python (Pandas, NumPy, TensorFlow)  
-- **Cloud**: Microsoft Azure  
-- **Version Control**: Git, GitHub  
-- **Workflow & Methodology**: Agile, Scrum  
+- **Business Intelligence Tools:** Tableau, Microsoft Power BI (Data Modelling, Reports, Dashboards), SSRS  
+- **ETL & Workflow Orchestration Tools:** Apache Kafka, Microsoft SQL Server Integration Services (SSIS), Apache Airflow  
+- **Programming Languages / Libraries:** Python (TensorFlow, NumPy, Pandas, Matplotlib, OpenCV, PySpark), R, C, HTML, CSS  
+- **Cloud Platforms & Services:** Azure (Databricks, Data Factory, Synapse, ML Studio, Custom Vision, Speech Services)  
+- **Databases & Data Warehousing:** MySQL, Microsoft SQL Server, MongoDB, Azure (SQL DB, Cosmos DB)  
+- **Tools / Platforms:** GIT, Jira, PyCharm, Microsoft Excel (Formulas, Macros, VBA, Pivot Tables), Office 365, Salesforce  
 
 ---
 
