@@ -34,7 +34,7 @@ This dashboard provides a data-driven overview of Canada's Permanent Residency (
 ![Approvals by Country](images/Approvals by Country.jpg)
 
 ## Approvals by Province & Age Group
-![Approvals by Province & Age Group](images/Approvals by Province & Age group.jpg)
+![Approvals by Province & Age Group](images/Approvals by Province & Age Group.jpg)
 
 ---
 
