@@ -51,5 +51,4 @@ This dashboard provides a data-driven overview of Canada's Permanent Residency (
 
 ## 📬 Contact Me  
 - Email: [abdullah.ahmed2603@gmail.com](mailto:abdullah.ahmed2603@gmail.com)  
-- Phone: +1-(226)-961-2782  
 - [LinkedIn](https://www.linkedin.com/in/abdu26399)
